@@ -1,0 +1,80 @@
+Timestamp,Type,Focus,Code,Description,TextValue
+2024-04-05T16:20:34.571Z,Activity,Instructor,CLP,"Class Logistics, Planning, etc.",
+2024-04-05T16:21:19.959Z,Activity,Instructor,IK,Instructor Asked,7 second wait
+2024-04-05T16:21:35.244Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:23:00.366Z,Activity,Instructor,CQA,Content Question Asked,"34 seconds, follow up question"
+2024-04-05T16:23:52.129Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:24:05.343Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:24:47.516Z,Activity,Instructor,CQA,Content Question Asked,"8 seconds, follow up question"
+2024-04-05T16:25:06.156Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:25:15.810Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:25:27.609Z,Activity,Instructor,IK,Instructor Asked,9 second wait
+2024-04-05T16:25:43.975Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:26:34.206Z,Activity,Instructor,IK,Instructor Asked,8 second wait 
+2024-04-05T16:26:47.900Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:28:31.500Z,Activity,Instructor,IK,Instructor Asked,10 seconds 
+2024-04-05T16:28:45.514Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:28:46.588Z,Activity,Instructor,PE,Prompted Explanation,
+2024-04-05T16:28:50.888Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:28:52.904Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:29:03.148Z,Activity,Instructor,AWP,Asked with Pause,
+2024-04-05T16:29:06.593Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:29:08.261Z,Activity,Instructor,PE,Prompted Explanation,
+2024-04-05T16:29:13.710Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:29:47.599Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:29:52.295Z,Activity,Instructor,CQA,Content Question Asked,6 seconds 
+2024-04-05T16:30:04.503Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:30:09.925Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:30:22.024Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:31:38.754Z,Activity,Instructor,CQA,Content Question Asked,10 seconds 
+2024-04-05T16:31:53.703Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:31:55.084Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:32:07.542Z,Activity,Instructor,CQA,Content Question Asked,"22 seconds, follow up question, 13 seconds, follow up question, 10 seconds "
+2024-04-05T16:33:24.290Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:33:28.821Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:34:19.968Z,Activity,Instructor,CQA,Content Question Asked,13 seconds 
+2024-04-05T16:34:34.241Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:34:35.552Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:35:13.043Z,Activity,Instructor,CQA,Content Question Asked,
+2024-04-05T16:35:18.806Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:35:26.805Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:35:30.065Z,Activity,Instructor,CQA,Content Question Asked,"6 second, follow up question, 17 seconds "
+2024-04-05T16:36:01.168Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:36:02.093Z,Activity,Instructor,PE,Prompted Explanation,
+2024-04-05T16:36:03.588Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:36:07.127Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:36:17.762Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:36:23.197Z,Activity,Instructor,CQA,Content Question Asked,
+2024-04-05T16:36:24.616Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:36:25.653Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:36:29.792Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:37:42.351Z,Activity,Instructor,IK,Instructor Asked,9 second wait 
+2024-04-05T16:38:00.602Z,Activity,Instructor,LA,Lecture,
+2024-04-05T16:40:16.309Z,Activity,Instructor,CQA,Content Question Asked,"20 seconds, follow up, 8 seconds "
+2024-04-05T16:41:01.356Z,Activity,Student,SA,Student Answered,
+2024-04-05T16:41:38.771Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T16:41:44.575Z,Activity,Instructor,IK,Instructor Asked,5 second wait 
+2024-04-05T16:41:58.686Z,Activity,Student,GW,Group Work,
+2024-04-05T16:59:37.810Z,Activity,Instructor,IK,Instructor Asked,6 seconds
+2024-04-05T16:59:52.210Z,Activity,Instructor,LA,Lecture,
+2024-04-05T17:00:03.071Z,Activity,Instructor,CQA,Content Question Asked,7 seconds 
+2024-04-05T17:00:15.840Z,Activity,Student,SA,Student Answered,
+2024-04-05T17:00:26.453Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T17:00:43.877Z,Activity,Instructor,LA,Lecture,
+2024-04-05T17:00:57.116Z,Activity,Instructor,CQA,Content Question Asked,10 seconds 
+2024-04-05T17:01:09.760Z,Activity,Student,SA,Student Answered,
+2024-04-05T17:01:15.949Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T17:01:23.292Z,Activity,Instructor,LA,Lecture,
+2024-04-05T17:01:32.859Z,Activity,Instructor,CQA,Content Question Asked,7 seconds 
+2024-04-05T17:01:41.364Z,Activity,Student,SA,Student Answered,
+2024-04-05T17:01:52.754Z,Activity,Instructor,LA,Lecture,
+2024-04-05T17:02:13.935Z,Activity,Instructor,IK,Instructor Asked,3 seconds 
+2024-04-05T17:02:19.971Z,Activity,Instructor,CQA,Content Question Asked,"23 seconds, follow up "
+2024-04-05T17:02:57.211Z,Activity,Student,SA,Student Answered,
+2024-04-05T17:03:12.552Z,Activity,Instructor,PE,Prompted Explanation,
+2024-04-05T17:03:14.276Z,Activity,Student,SA,Student Answered,
+2024-04-05T17:03:20.226Z,Activity,Instructor,LEF,Logic Explained / Feedback,
+2024-04-05T17:03:26.863Z,Activity,Instructor,LA,Lecture,
+2024-04-05T17:04:14.719Z,Activity,Instructor,IK,Instructor Asked,7 seconds 
+2024-04-05T17:04:31.708Z,Activity,Instructor,CLP,"Class Logistics, Planning, etc.",
+2024-04-05T17:04:53.354Z,Activity,Student,QT,Quiz / Test,
